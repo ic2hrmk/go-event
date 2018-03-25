@@ -1,0 +1,12 @@
+.DS_Store
+.idea
+
+*.o
+*.a
+*.so
+
+event
+
+*.exe
+*.test
+*.prof
