@@ -1,4 +1,4 @@
-package main
+package goevent
 
 // EventType is an event type alias
 type EventType int

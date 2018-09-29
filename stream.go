@@ -1,4 +1,4 @@
-package main
+package goevent
 
 type EventStream struct {
 	innerStream chan EventObject
